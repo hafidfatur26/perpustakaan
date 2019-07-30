@@ -1,4 +1,4 @@
-package alarmq.feri.com.perpustakaan;
+package hafid.fatur.perpustakaan;
 
 public class BukuModel {
 

@@ -1,4 +1,4 @@
-package alarmq.feri.com.perpustakaan;
+package hafid.fatur.perpustakaan;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -13,8 +13,8 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import alarmq.feri.com.perpustakaan.DBHelper.BukuHelper;
-import alarmq.feri.com.perpustakaan.DBHelper.RakBukuHelper;
+import hafid.fatur.perpustakaan.DBHelper.BukuHelper;
+import hafid.fatur.perpustakaan.DBHelper.RakBukuHelper;
 
 public class BukuAdapter extends RecyclerView.Adapter<BukuAdapter.CustomViewHolder> {
 
